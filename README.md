@@ -78,8 +78,8 @@ Chrome: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-
 
 ## Future work
 
-* User-friendly options UI
-* Sync options to cloud provider / enterprise policies
+* User-friendly options UI - Education Edition would need to have UI password locked at point of install. - Is a UI even required? Could these options be manged from with a Google service somewhere, eg a Google site.
+* Sync options to cloud provider / enterprise policies - Education Edition. Sync to Google Sheet(?) which would be accessable to all users on the same Google domain. Chrome sync would need to be enforced from Google admin console.
 * Whitelist mode
 * Dynamic rules (match multiple rules to block a video)
 
